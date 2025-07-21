@@ -4,6 +4,8 @@
 
 ---
 
+## Backend Deployed Link : [Link](https://ubiquitous-vs99.onrender.com)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
