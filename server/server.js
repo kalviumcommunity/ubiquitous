@@ -12,6 +12,8 @@ app.use('/',(req,res)=>{
 })
 
 
+connectDB();
+
 const PORT = process.env.PORT || 5000;
 
 //port 
