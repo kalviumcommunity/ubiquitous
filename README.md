@@ -5,6 +5,8 @@
 ---
 
 ## Backend Deployed Link : [Link](https://ubiquitous-vs99.onrender.com)
+## Frontend Deployed Link : [Link](https://ubiquitous-vik.netlify.app)
+
 
 ## 🛠️ Tech Stack
 
